@@ -42,5 +42,5 @@ Step 2: Run Anaconda and Open the jupyter Notebook in browser
 
 Validation:
 
-I have automated the process which was manually done in the researh paper. I have looped each and every PR. Took the comments, conversations and title and analyzed each of them with the Key word to form a Root Cause and Manifestaiton which was done in research paper. Identified the 3 root cause and manifestation within each type of root cause.
+I have automated the process which was manually done in the research paper. I have looped each and every PR. Took the comments, conversations and title and analyzed each of them with the Key word to form a Root Cause and Manifestaiton which was done in research paper. Identified the 3 root cause and manifestation within each type of root cause.
 Similarly each of the root cause is again carefully sorted into different category just like the authors have done in Research Paper.
