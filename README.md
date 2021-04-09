@@ -1,37 +1,37 @@
 # Mining-Software-Repository
 Metadata
 
-** ** Title: An Empirical Study on Regular Expression Bugs
+Title: An Empirical Study on Regular Expression Bugs
 
-** **DBLP link: https://dl.acm.org/doi/10.1145/3379597.3387464
-
-
-** ** Requirements:
+DBLP link: https://dl.acm.org/doi/10.1145/3379597.3387464
 
 
-** ** Hardware: Windows, Mac or Linux operating system. Good and fast processor.
+Requirements:
 
-** ** Software: Anaconda, Python(pip install the required libraires mentioned below), Microsoft Excel
 
-** ** Process: 
+Hardware: Windows, Mac or Linux operating system. Good and fast processor.
 
-** ** Steps: 
+Software: Anaconda, Python(pip install the required libraires mentioned below), Microsoft Excel
 
-Step 1: Markup: * Install below third party libraries using below commands
-                *  Install python 3.7.4 (in Mac)
-                  sudo apt-get install python3=3.7.4* OR Follow the steps given here for windows - 
-                  https://phoenixnap.com/kb/how-to-install-python-3-windows
+Process: 
+
+Steps: 
+
+Step 1: Install below third party libraries using below commands
+        Install python 3.7.4 (in Mac)
+        sudo apt-get install python3=3.7.4* OR Follow the steps given here for windows - 
+https://phoenixnap.com/kb/how-to-install-python-3-windows
       
-      Markup: * Install numpy 1.17.2
+      a) Install numpy 1.17.2
       pip instanumpy==1.17.2
 
-      c) Install pandas 0.25.1
+      b) Install pandas 0.25.1
       pip install pandas==0.25.1
 
-      d) Install matplotlib 3.1.1
+      c) Install matplotlib 3.1.1
       pip install matplotlib==3.1.1
 
-      e) Install GitPython 3.1.0
+      d) Install GitPython 3.1.0
       pip install GitPython==3.1.0
 
       e) Install Beautiful Soup
