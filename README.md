@@ -11,7 +11,7 @@ Metadata
 
 ## Hardware: Windows, Mac or Linux operating system. Good and fast processor.
 
-## Software: Anaconda, Python(pip install the required libraires mentioned below), Microsoft Excel
+## Software: Anaconda, Python(pip install the required libraries mentioned below), Microsoft Excel
 
 # Process: 
 
@@ -39,7 +39,7 @@ https://phoenixnap.com/kb/how-to-install-python-3-windows
        
   
 ## Step 2
-* Run Anaconda and Open the jupyter Notebook in browser
+* Run Anaconda and Open the jupyter Notebook in browser.
 
 ## Validation:
 
