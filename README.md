@@ -1,23 +1,23 @@
 # Mining-Software-Repository
 ## Metadata
 
-## Title: An Empirical Study on Regular Expression Bugs
+### Title: An Empirical Study on Regular Expression Bugs
 
-## DBLP link: https://dl.acm.org/doi/10.1145/3379597.3387464
-
-
-## Requirements:
+### DBLP link: https://dl.acm.org/doi/10.1145/3379597.3387464
 
 
-## Hardware: Windows, Mac or Linux operating system. Good and fast processor.
+### Requirements:
 
-## Software: Anaconda, Python(pip install the required libraries mentioned below), Microsoft Excel
 
-# Process: 
+### Hardware: Windows, Mac or Linux operating system. Good and fast processor.
 
-## Steps: 
+### Software: Anaconda, Python(pip install the required libraries mentioned below), Microsoft Excel
 
-## Step 1
+### Process: 
+
+### Steps: 
+
+### Step 1
 * Install below third party libraries using below commands.
 * Install python 3.7.4 (in Mac) sudo apt-get install python3=3.7.4* or follow the steps given here for windows - 
 https://phoenixnap.com/kb/how-to-install-python-3-windows
@@ -38,10 +38,10 @@ https://phoenixnap.com/kb/how-to-install-python-3-windows
        pip install beautifulsoup4
        
   
-## Step 2
+### Step 2
 * Run Anaconda and Open the jupyter Notebook in browser.
 
-## Validation:
+### Validation:
 
 * I have automated the process which was manually done in the research paper. 
 * I have looped each and every PR. Took the comments, conversations and title and analyzed each of them with the Key word to form a Root Cause and Manifestaiton which was done in research paper. 
